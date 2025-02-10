@@ -45,7 +45,7 @@ export default function Home() {
           />
           <p className='text-lg italic max-w-md mx-auto'>
             Roses are red, violets are blue, <br />
-            From this moment on, it's just me and you. 💞
+            From this moment on, it&apos;s just me and you. 💞
           </p>
         </div>
       )}
